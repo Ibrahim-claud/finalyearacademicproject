@@ -1,0 +1,148 @@
+/*--------  MOBILE RESPOSIVE STYLING  --------*/
+@media screen and (max-width: 1400px) {
+  hr.hrSeperator {
+    width: 650px;
+    color: white;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+}
+@media screen and (max-width: 1300px) {
+  hr.hrSeperator {
+    width: 560px;
+    color: white;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+}
+@media screen and (max-width: 1200px) {
+  hr.hrSeperator {
+    width: 460px;
+    color: white;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+}
+@media screen and (max-width: 1050px) {
+  hr.hrSeperator {
+    width: 460px;
+    color: white;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+}
+
+@media screen and (max-width: 990px) {
+  hr.hrSeperator {
+    width: 600px;
+    color: white;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+}
+
+@media screen and (max-width: 890px) {
+  .image__overlay {
+    top: 0;
+    left: 133px;
+    width: 100%;
+    height: 84%;
+  }
+  hr.hrSeperator {
+    width: 600px;
+    color: white;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+}
+@media screen and (max-width: 790px) {
+  .display-6.aboutHeader {
+    width: 100%;
+    font-size: 26px;
+  }
+  .image__overlay {
+    top: 0;
+    left: 133px;
+    width: 50%;
+    height: 84%;
+  }
+  hr.hrSeperator {
+    width: 630px;
+    color: white;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+}
+@media screen and (max-width: 690px) {
+  .display-6.aboutHeader {
+    width: 100%;
+    font-size: 24px;
+  }
+
+  .display-6.vrHaader {
+    font-size: 22px;
+  }
+
+  .image__overlay {
+    top: 0;
+    left: 133px;
+    width: 50%;
+    height: 84%;
+  }
+  hr.hrSeperator {
+    width: 460px;
+    color: white;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+}
+
+@media screen and (max-width: 590px) {
+  .display-6.aboutHeader {
+    width: 100%;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+  }
+
+  .display-6.vrHaader {
+    font-size: 20px;
+  }
+  .image__overlay {
+    top: 0;
+    left: 133px;
+    width: 50%;
+    height: 84%;
+  }
+  hr.hrSeperator {
+    width: 460px;
+    color: white;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  .successCard {
+    display: block;
+    margin: auto;
+    width: 20rem;
+    text-align: center;
+    margin-top: 200px;
+  }
+  .clickBelow {
+    margin-top: 20px;
+  }
+}
+
+@media screen and (max-width: 490px) {
+  .d-block.w-100.zoomEffect {
+    margin-top: 55px;
+  }
+}
